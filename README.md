@@ -89,7 +89,10 @@ http://raspberry-pi-ip:8080
 │HTTP   │   │ OpenCV  │  │ Telegram│
 └───────┘   └─────────┘  └─────────┘
 ```
-
+## Block Diagram 
+---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab68a555-9d9f-447e-bb0a-cf63597cffd0" />
+---
 ## File Structure
 
 ```
